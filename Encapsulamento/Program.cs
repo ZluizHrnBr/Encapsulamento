@@ -6,7 +6,7 @@ namespace Encapsulamento
     {
         static void Main(string[] args)
         {
-
+            // faltou o código aqui
         }
     }
 }
